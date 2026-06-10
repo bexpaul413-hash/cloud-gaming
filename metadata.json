@@ -1,0 +1,6 @@
+{
+  "name": "NexusCloud",
+  "description": "A high-performance cloud gaming portal with live stream diagnostics, interactive telemetry sidebar, progression panel, and subscription upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
